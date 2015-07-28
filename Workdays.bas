@@ -1,5 +1,3 @@
-Const monatName = Array("January", "Feburary", "March", "April", "May", "June", "July", "August", "September", "Octomber", "November", "December")
-
 Function tageImMonat(ByVal m As Integer, j As Integer) As Integer
     
     Dim res As Integer
